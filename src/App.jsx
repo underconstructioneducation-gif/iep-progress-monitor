@@ -22,7 +22,7 @@ const STATUS = {
 
 // ── IMPORTANT: Replace this with your actual OAuth Client ID from Google Cloud Console
 // Go to console.cloud.google.com → APIs & Services → Credentials
-const GDRIVE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID_HERE";
+const GDRIVE_CLIENT_ID = "134368860675-f2m6sb51i7vkesrkk54sf0vlt5vtbfm4.apps.googleusercontent.com";
 const GDRIVE_SCOPE = "https://www.googleapis.com/auth/drive.appdata";
 const GDRIVE_FILE_NAME = "iep-progress-data.json";
 const STORAGE_KEY = "iep_monitor_v2";
